@@ -27,7 +27,7 @@
 
 
 <h4 align="center"> 
-	Em construção :warning:
+	Concluído 
 </h4>
 
 

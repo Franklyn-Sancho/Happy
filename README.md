@@ -8,7 +8,7 @@
 
 
 ![Badge](https://img.shields.io/static/v1?label=expo&message=framework&color=black&style=for-the-badge&logo=EXPO)
-![Badge](https://img.shields.io/static/v1?label=nodejs&message=Code&color=green&style=for-the-badge&logo=nodejs)
+![Badge](https://img.shields.io/static/v1?label=nodejs&message=Code&color=green&style=for-the-badge&logo=node.js)
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 ![Badge](https://img.shields.io/static/v1?label=reactnative&message=framework&color=darkblue&style=for-the-badge&logo=REACTNATIVE)
 ![Badge](https://img.shields.io/static/v1?label=typescript&message=framework&color=blue&style=for-the-badge&logo=TYPESCRIPT)
